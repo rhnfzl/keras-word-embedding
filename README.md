@@ -1,5 +1,7 @@
 # Word-Embedding implementation using Keras
 
+#### Part of Assignment of Deep Learning Course (2IMM10) at TU/e 
+
 ## Objective
 
 Build word embeddings with a Keras implementation where the embedding vector is of length 50, 150 and 300. Use the Alice in Wonderland text book (alice.txt) for training . Use a window size of 2 to train the embeddings (window size in the jupyter notebook).
